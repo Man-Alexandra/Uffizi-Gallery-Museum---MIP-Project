@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="901ce9f1-77da-4a6a-8943-be1b3bcea19e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pmvtJi0mRfpTt6kkyF6rI8Gq9j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DatabaseConnection.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MuseumApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/Jubii/FACULTATE/ANU II SEM 1/MIP/Ufizzi Gallery Museum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Jubii\FACULTATE\ANU II SEM 1\MIP\Ufizzi Gallery Museum\src\main" />
+      <recent name="G:\Jubii\FACULTATE\ANU II SEM 1\MIP\Ufizzi Gallery Museum\src" />
+      <recent name="G:\Jubii\FACULTATE\ANU II SEM 1\MIP\Ufizzi Gallery Museum\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MuseumApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.MuseumApp" />
+      <module name="museum-database" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\javafx-sdk-17.0.13\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="901ce9f1-77da-4a6a-8943-be1b3bcea19e" name="Changes" comment="" />
+      <created>1733384284090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733384284090</updated>
+      <workItem from="1733384286013" duration="10584000" />
+      <workItem from="1733566393348" duration="338000" />
+      <workItem from="1733566745394" duration="16758000" />
+      <workItem from="1733839869477" duration="6430000" />
+      <workItem from="1733906224647" duration="6602000" />
+      <workItem from="1734004374548" duration="18334000" />
+      <workItem from="1734101564893" duration="7625000" />
+      <workItem from="1734365468280" duration="7649000" />
+      <workItem from="1734453895898" duration="6398000" />
+      <workItem from="1734503274232" duration="3316000" />
+      <workItem from="1734616143587" duration="6463000" />
+      <workItem from="1735812925816" duration="7566000" />
+      <workItem from="1735855889158" duration="2284000" />
+      <workItem from="1735897406115" duration="15019000" />
+      <workItem from="1735912743842" duration="1097000" />
+      <workItem from="1735914275183" duration="4022000" />
+      <workItem from="1735937984972" duration="7559000" />
+      <workItem from="1735991130732" duration="113000" />
+      <workItem from="1735991707939" duration="4091000" />
+      <workItem from="1735996413230" duration="1229000" />
+      <workItem from="1736001219233" duration="58000" />
+      <workItem from="1736001316080" duration="123000" />
+      <workItem from="1736001463044" duration="27000" />
+      <workItem from="1736001857111" duration="284000" />
+      <workItem from="1736152534462" duration="20000" />
+      <workItem from="1736152593961" duration="16000" />
+      <workItem from="1736156838921" duration="1042000" />
+      <workItem from="1736159384729" duration="146000" />
+      <workItem from="1736159580714" duration="1712000" />
+      <workItem from="1736241649849" duration="4273000" />
+      <workItem from="1736250507514" duration="1662000" />
+      <workItem from="1736534622128" duration="1054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
