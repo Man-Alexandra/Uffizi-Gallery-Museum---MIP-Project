@@ -1,0 +1,42 @@
+Artwork ID: 2
+Title: The Persistence of Memory
+Description: A surreal artwork with melting clocks
+Artist: Salvador Dalí
+Year: 1931
+Exhibited: true
+-----------------------------
+Artwork ID: 3
+Title: The Sirens and Ulysses
+Description: The sirens were famous for the beauty of their singing, which would lure sailors to their deaths. Ulysses wanted to hear their song, so had his crew lash him to the ship mast under strict orders not to untie him, after which they blocked their ears until they were safely out of range of the island.
+Artist: William Etty
+Year: 1837
+Exhibited: true
+-----------------------------
+Artwork ID: 4
+Title: The Garden of Earthly Delights
+Description: Regarded by scholars as his most puzzling work, The Garden of Earthly Delights provides a visual representation which expresses the fears that dominated life in the Middle Ages-the insatiable weakness of man for not resisting sinful physical temptation, and eternal damnation in hell as just punishment of lustful human.
+Artist: Hieronymus Bosch
+Year: 1515
+Exhibited: true
+-----------------------------
+Artwork ID: 5
+Title: The Creation of Adam
+Description: A fresco painting by Michelangelo on the ceiling of the Sistine Chapel.
+Artist: Michelangelo
+Year: 1512
+Exhibited: true
+-----------------------------
+Artwork ID: 6
+Title: Girl with a Pearl Earring
+Description: Going by various names over the centuries, it became known by its present title towards the end of the 20th century because of the earring worn by the girl portrayed there.
+Artist: Johannes Vermeer
+Year: 1665
+Exhibited: true
+-----------------------------
+Artwork ID: 7
+Title: MONA LISA
+Description: description
+Artist: Leonardo da Vinci
+Year: 1234
+Exhibited: false
+-----------------------------

@@ -1,0 +1,15 @@
+Visitor ID: 1
+Person ID: 1
+Ticket ID: 1
+Visit Date: 2024-12-01
+----------------------------------
+Visitor ID: 2
+Person ID: 2
+Ticket ID: 2
+Visit Date: 2024-12-05
+----------------------------------
+Visitor ID: 3
+Person ID: 3
+Ticket ID: 4
+Visit Date: 2024-12-10
+----------------------------------
